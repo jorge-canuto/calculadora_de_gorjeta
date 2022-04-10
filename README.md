@@ -1,16 +1,14 @@
-# calculadoragorjeta
+# Calculadora de gorjeta
+## _Uma calculadora de gorjeta simples_
 
-A new Flutter application.
+## Features
+- Calcula gorjeta em dólar
+- Calcula gorjeta em real
+- Calcula gorjeta padrão (10%)
+- Calcula gorjeta personalizada (1% a 20%)
 
-## Getting Started
+## License
 
-This project is a starting point for a Flutter application.
+MIT
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Free Software**
